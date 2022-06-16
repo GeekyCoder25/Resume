@@ -11,12 +11,13 @@ const Home = () => {
         <div className="page">
             <aside>
                 <section className="profile">
-                    <img src={mine} alt="mine" className='mine'/>
+                    <img src={mine} alt="mine" className='mine' />
                     <h1>Toyib Lawal</h1>
-                    <p>Front-End Devloper</p>
+                    <p>Front-End Developer</p>
                     <div>
-                        <i className="fas fa-envelope"></i>
-                        toyibe25@gmail.com
+                        <a href="https://toyibe25@gmail.com"  target="_blank"
+                            rel="noreferrer"><i className="fas fa-envelope"></i>
+                        toyibe25@gmail.com</a>
                     </div>
                     <div>
                         <i className="fas fa-phone"></i>
@@ -98,8 +99,8 @@ const Home = () => {
                         Meticulous Frontend developer with over 2 years of frontend
                         experience, with passion and dedication for responsive website
                         design and a firm believer in the mobile first approach. I have
-                        experience with HTML, CSS, JavaScript and React and I've built
-                        different projects and UI landing pages with them{" "}
+                        experience with HTML, CSS, JavaScript, JQuery and React and I've built
+                        different projects and UI landing pages with them
                     </p>
                 </section>
                 <section className="work">
@@ -107,7 +108,7 @@ const Home = () => {
                     <ul>
                         <li>Web Development</li>
                         <li>Mobile App Development</li>
-                        <li>Blogger</li>
+                        <li>Blogging</li>
                         <li>Open Source</li>
                     </ul>
                 </section>
@@ -128,7 +129,7 @@ const Home = () => {
                 <section>
                     <h1>Personal Projects</h1>
                     <p>Some of past projects include:</p>
-                    <ul>
+                    <ul className='links'>
                         <li>
                             <a href="https://geekycoder25.github.io/Portfolio/" rel="noreferrer">Portfolio</a></li>
                         <li><a href="https://geekycoder25.github.io/Dees-Estate/">Dee's Estate</a></li>
@@ -136,9 +137,6 @@ const Home = () => {
                         <li><a href="https://geekycoder25.github.io/Snap/">Snap</a></li>
                         <li> <a href="https://geekycoder25.github.io/MagVerse/
                                 " rel="noreferrer">Magverse</a>
-                        </li>
-                        <li> <a href="https://geekycoder25.github.io/Resume/
-                                " rel="noreferrer">Resume</a>
                         </li>
                     </ul>
                 </section>

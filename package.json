@@ -1,6 +1,6 @@
 {
-  "name": "template",
-  "homepage": "https://geekycoder25.github.io/",
+  "name": "resume",
+  "homepage": "https://geekycoder25.github.io/Resume",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

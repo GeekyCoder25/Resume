@@ -51,7 +51,6 @@ aside .fab {
   margin-right: 10px;
 }
 aside .image {
-  align-items: center;
   display: flex;
 }
 aside .mine {
@@ -102,8 +101,17 @@ main ul {
   margin-left: 40px;
 }
 main ul li {
-  font-size: 16px;
-  list-style: square;
+    font-size: 16px;
+    list-style: none;
+}
+main ul:not(.links) li::before,
+main ul li a::before {
+    content: "\2023";
+    color: rgb(158, 70, 54);
+    font-weight: bold;
+    display: inline-block;
+    width: 1em;
+    margin-left: -1em;
 }
 a {
   display: block;
