@@ -15,7 +15,7 @@ const Home = () => {
                     <h1>Toyib Lawal</h1>
                     <p>Front-End Developer</p>
                     <div>
-                        <a href="https://toyibe25@gmail.com"  target="_blank"
+                        <a href="mailto:toyibe25@gmail.com"  target="_blank"
                             rel="noreferrer"><i className="fas fa-envelope"></i>
                         toyibe25@gmail.com</a>
                     </div>
