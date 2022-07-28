@@ -82,6 +82,10 @@ const Home = () => {
                         React
                     </p>
                     <p className="image">
+                        <img src={react} alt="react" />
+                        React Native
+                    </p>
+                    <p className="image">
                         <img src={jquery} alt="jquery" />
                         jQuery
                     </p>
@@ -131,7 +135,8 @@ const Home = () => {
                     <p>Some of past projects include:</p>
                     <ul className='links'>
                         <li>
-                            <a href="https://geekycoder25.github.io/Portfolio/" rel="noreferrer">Portfolio</a></li>
+                            <a href="https://toyib.vercel.app/" rel="noreferrer">Portfolio</a></li>
+                        <li><a href="https://qoreeb.vercel.app/">Magnificent Portfolio</a></li>
                         <li><a href="https://geekycoder25.github.io/Dees-Estate/">Dee's Estate</a></li>
                         <li><a href="https://geekycoder25.github.io/Skillers/" rel="noreferrer">Skillers</a></li>
                         <li><a href="https://geekycoder25.github.io/Snap/">Snap</a></li>
