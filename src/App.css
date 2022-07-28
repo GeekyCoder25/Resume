@@ -58,6 +58,8 @@ aside .mine {
   height: 150px;
   border-radius: 50%;
   margin-left: 40px;
+  object-fit: cover;
+  object-position: 0px 0px;
 }
 aside img {
   width: 30px;
@@ -116,6 +118,7 @@ main ul li a::before {
 a {
   display: block;
   text-decoration: none;
+  color: blue;
 }
 @media (max-width: 1200px) {
   .app {

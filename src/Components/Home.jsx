@@ -1,4 +1,4 @@
-import mine from '../images/mine2.jpg'
+import mine from '../images/mine.jpg'
 import html from "../images/html.png";
 import css from "../images/css.png";
 import js from "../images/JS.png";
