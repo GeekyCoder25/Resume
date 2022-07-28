@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/github.io/resume/static/css/main.da372c00.css",
-    "main.js": "/github.io/resume/static/js/main.c68bfc81.js",
-    "static/media/mine.jpg": "/github.io/resume/static/media/mine.a0beb4758e5aae053cdc.jpg",
-    "static/media/fa-solid-900.ttf": "/github.io/resume/static/media/fa-solid-900.e615bbcb258550973c16.ttf",
-    "static/media/fa-brands-400.ttf": "/github.io/resume/static/media/fa-brands-400.b823fc0dbb5a5f0c21bb.ttf",
-    "static/media/fa-solid-900.woff2": "/github.io/resume/static/media/fa-solid-900.59edf72a325ac2048d60.woff2",
-    "static/media/fa-brands-400.woff2": "/github.io/resume/static/media/fa-brands-400.ebb7a127d2d8ee6f1832.woff2",
-    "static/media/css.png": "/github.io/resume/static/media/css.19c8605d6b2861f5fbe0.png",
-    "static/media/fa-regular-400.ttf": "/github.io/resume/static/media/fa-regular-400.0d03b1bbd1d62c1e1284.ttf",
-    "static/media/fa-regular-400.woff2": "/github.io/resume/static/media/fa-regular-400.0caf4c6cf244a90efcc5.woff2",
-    "static/media/react.png": "/github.io/resume/static/media/react.f3e576ba08e6be927148.png",
-    "static/media/fa-v4compatibility.ttf": "/github.io/resume/static/media/fa-v4compatibility.4baccb548138840fa33a.ttf",
-    "static/media/jquery.svg": "/github.io/resume/static/media/jquery.805a7ce8514466ad45ded05a3c611009.svg",
-    "static/media/fa-v4compatibility.woff2": "/github.io/resume/static/media/fa-v4compatibility.afac89562a5301459069.woff2",
-    "static/media/git.svg": "/github.io/resume/static/media/git.fd381642a8b14fec88b8d6df1ff25220.svg",
-    "index.html": "/github.io/resume/index.html",
-    "main.da372c00.css.map": "/github.io/resume/static/css/main.da372c00.css.map",
-    "main.c68bfc81.js.map": "/github.io/resume/static/js/main.c68bfc81.js.map"
+    "main.css": "/github.io/Resume/static/css/main.5ef8a4dc.css",
+    "main.js": "/github.io/Resume/static/js/main.331225a7.js",
+    "static/media/mine.jpg": "/github.io/Resume/static/media/mine.a0beb4758e5aae053cdc.jpg",
+    "static/media/fa-solid-900.ttf": "/github.io/Resume/static/media/fa-solid-900.e615bbcb258550973c16.ttf",
+    "static/media/fa-brands-400.ttf": "/github.io/Resume/static/media/fa-brands-400.b823fc0dbb5a5f0c21bb.ttf",
+    "static/media/fa-solid-900.woff2": "/github.io/Resume/static/media/fa-solid-900.59edf72a325ac2048d60.woff2",
+    "static/media/fa-brands-400.woff2": "/github.io/Resume/static/media/fa-brands-400.ebb7a127d2d8ee6f1832.woff2",
+    "static/media/css.png": "/github.io/Resume/static/media/css.19c8605d6b2861f5fbe0.png",
+    "static/media/fa-regular-400.ttf": "/github.io/Resume/static/media/fa-regular-400.0d03b1bbd1d62c1e1284.ttf",
+    "static/media/fa-regular-400.woff2": "/github.io/Resume/static/media/fa-regular-400.0caf4c6cf244a90efcc5.woff2",
+    "static/media/react.png": "/github.io/Resume/static/media/react.f3e576ba08e6be927148.png",
+    "static/media/fa-v4compatibility.ttf": "/github.io/Resume/static/media/fa-v4compatibility.4baccb548138840fa33a.ttf",
+    "static/media/jquery.svg": "/github.io/Resume/static/media/jquery.805a7ce8514466ad45ded05a3c611009.svg",
+    "static/media/fa-v4compatibility.woff2": "/github.io/Resume/static/media/fa-v4compatibility.afac89562a5301459069.woff2",
+    "static/media/git.svg": "/github.io/Resume/static/media/git.fd381642a8b14fec88b8d6df1ff25220.svg",
+    "index.html": "/github.io/Resume/index.html",
+    "main.5ef8a4dc.css.map": "/github.io/Resume/static/css/main.5ef8a4dc.css.map",
+    "main.331225a7.js.map": "/github.io/Resume/static/js/main.331225a7.js.map"
   },
   "entrypoints": [
-    "static/css/main.da372c00.css",
-    "static/js/main.c68bfc81.js"
+    "static/css/main.5ef8a4dc.css",
+    "static/js/main.331225a7.js"
   ]
 }
