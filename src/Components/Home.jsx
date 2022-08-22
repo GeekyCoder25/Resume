@@ -98,7 +98,7 @@ const Home = () => {
 					</p>
 					<p className="image">
 						<img src={next} alt="next" />
-						Next.js
+						Next JS
 					</p>
 					<p className="image">
 						<img src={jquery} alt="jquery" />
@@ -115,14 +115,17 @@ const Home = () => {
 				<section>
 					<h1>PROFILE</h1>
 					<p>
-						Frontend Web developer with 3 years of frontend experience able to
+						Frontend Developer with 3 years of frontend experience able to
 						build a web presence from the ground up, with passion and dedication
 						for responsive website design. I'm skilled at writing well-designed,
 						testable, effiecient code and resusable components using current
 						best practices in Web Development. Fast leaner, hard worker, who is
 						proficient in array scripting languages and multimedia Web tools.
-						I'm skilled and proficient in HTML, CSS, JavaScript, JQuery, React,
-						Next, TypeScript.
+						I'm skilled and proficient in{' '}
+						<b>
+							HTML, CSS, JavaScript, JQuery, React, Next JS, TypeScript,
+							Tailwind CSS, Node JS.
+						</b>
 					</p>
 				</section>
 				<section className="work">
@@ -137,6 +140,12 @@ const Home = () => {
 				<section>
 					<h1>Experiences</h1>
 					<ul>
+						<li>
+							<b>Internship at Crediometer</b>
+							<p>JULY 2022 - PRESENT | NIGERIA - REMOTE</p>
+							<p>Implemented UI Components and making use of API calls</p>
+						</li>
+
 						<li>
 							Implemented Website and Landing pages from concept through
 							development
@@ -198,15 +207,17 @@ const Home = () => {
 				<section>
 					<h1>Certificates</h1>
 					<p>
-						SoloLearn Web Development Certification in HTML, CSS, JavaScript,
-						React & Redux, Jquery, Responsive Web Design, etc. <br />
-						<br /> A list of my certificates on my portfolio is{' '}
-						<a
-							href="https://toyib.vercel.app/certificates"
-							style={{ display: 'inline' }}
-						>
-							here
-						</a>
+						<b>SoloLearn</b> Web Development Certification in HTML, CSS, JavaScript,
+						React & Redux, Jquery, Responsive Web Design, etc.
+						<span className="resume-certi">
+							A list of my certificates on my portfolio is{' '}
+							<a
+								href="https://toyib.vercel.app/certificates"
+								style={{ display: 'inline' }}
+							>
+								here
+							</a>
+						</span>
 					</p>
 				</section>
 				<section>

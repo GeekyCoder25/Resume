@@ -29,10 +29,10 @@ aside .profile h1 {
   font-size: 35px;
 }
 aside .profile p {
-  font-size: 30px;
+  font-size: 1.35rem;
   line-height: 30px;
   font-style: italic;
-  margin-bottom: 30px;
+  margin-bottom: 1.25rem;
   font-weight: 600;
 }
 aside .about .school {
@@ -89,7 +89,7 @@ main {
   flex: 2;
 }
 main section {
-  margin-top: 5%;
+  margin-top: 3%;
 }
 main h1 {
   color: rgb(158, 70, 54);
@@ -119,6 +119,10 @@ a {
   display: block;
   text-decoration: none;
   color: blue;
+}
+.resume-certi{
+  margin-top: 8px;
+  display: block;
 }
 @media (max-width: 1200px) {
   .app {
